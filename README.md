@@ -1,11 +1,13 @@
 # Dashboard de Gerenciamento de Finanças Pessoais
 
-![dashboard](banner.png)
 
+![dashboard](assets/banner.png)
 
 ## Objetivo
 
 Desenvolver un deshboard para gerenciar as finanças pessoais
+
+![dashboard](assets/banner.png)
 
 ## Tecnologias
 
