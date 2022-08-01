@@ -1,0 +1,9 @@
+i*.pyc
+*.mp4
+*.csv
+__pycache__
+*.kdelive
+.DS_Store
+*.lock
+teste.py
+
