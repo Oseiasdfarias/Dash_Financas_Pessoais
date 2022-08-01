@@ -1,7 +1,7 @@
 # Dashboard de Gerenciamento de Finanças Pessoais
 
 
-![dashboard](assets/banner.png)
+![dashboard](assets/banner2.png)
 
 ## Objetivo
 
